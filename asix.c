@@ -46,7 +46,6 @@
 
 static char version[] =
 KERN_INFO "ASIX USB Ethernet Adapter:v" DRV_VERSION
-	" " __TIME__ " " __DATE__ "\n"
 	"    http://www.asix.com.tw\n";
 
 /* configuration of maximum bulk in size */
